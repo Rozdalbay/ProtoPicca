@@ -1,4 +1,3 @@
-# ProtoPicca
 ### C++ ###
 # Prerequisites
 *.d
@@ -33,40 +32,6 @@
 *.out
 *.app
 
-### FreePascal ###
-*.lps
-*.compiled
-*.[oa]
-*.ppu
-*.rst
-*.cgi
-*.log
-*.bak*
-fp.ini
-fp.cfg
-fp.dsk
-
-### MicrosoftOffice ###
-*.tmp
-
-# Word temporary
-~$*.doc*
-
-# Word Auto Backup File
-Backup of *.doc*
-
-# Excel temporary
-~$*.xls*
-
-# Excel Backup File
-*.xlk
-
-# PowerPoint temporary
-~$*.ppt*
-
-# Visio autosave temporary files
-*.~vsd*
-
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -93,4 +58,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,c++,freepascal,microsoftoffice
+# End of https://www.toptal.com/developers/gitignore/api/windows,c++
